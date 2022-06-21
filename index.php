@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 h-300px text-white text-center">
-                    <h1 class="text-banner"> Aprendendo GIT </h1>
+                    <h1 class="text-banner"> APRENDENDO GIT </h1>
                 </div>
 
                 <div class="col-md-4 col-lg-4 col-sm-12 mt-3 p-0">
