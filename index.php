@@ -38,7 +38,7 @@
                             Rodrigo Mouro/Leonardo Carvalho - 21/06/2022
                         </div>
                     <div class="card mt-3">
-                        <div class="card-body" id="GitStatus">
+                        <div class="card-body" id="GitPull">
                             <p> 
                                 Git pull atualiza seu diretório local com todas as mudanças que 
                                 foram feitas no repositório, serve para manter seus arquivos 
@@ -116,7 +116,7 @@
                     
 
                     <div class="card mt-3">
-                        <div class="card-body" id="GitPull">
+                        <div class="card-body" id="GitStatus">
                             <p> git status </p>
 
                             <p> lista arquivos editados em seu repositório </p>
