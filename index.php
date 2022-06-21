@@ -17,6 +17,7 @@
 
                 <div class="col-md-4 col-lg-4 col-sm-12 mt-3 p-0">
                     <ul class="list-group">
+                        <li class="list-group-item"> <a href="#OqueéGIT"> Oque é GIT? </a> </li>
                         <li class="list-group-item"> <a href="#GitPull"> Git Pull </a> </li>
                         <li class="list-group-item"> <a href="#GitPush"> Git Push </a> </li>
                         <li class="list-group-item"> <a href="#GitComit"> Git Commit </a> </li>
@@ -26,6 +27,16 @@
                 </div>
 
                 <div class="col-md-8 col-lg-8 col-sm-12">
+                <div class="card mt-3">
+                        <div class="card-body" id="GitPush">
+                            <p>
+                                Git é uma ferramenta que usamos para salvar arquivos na nuvem!
+                            </p>
+                        </div>
+
+                        <div class="card-footer">
+                            Rodrigo Mouro/Leonardo Carvalho - 21/06/2022
+                        </div>
                     <div class="card mt-3">
                         <div class="card-body" id="GitStatus">
                             <p> 
