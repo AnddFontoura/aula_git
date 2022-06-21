@@ -1,5 +1,5 @@
 body {
-    background-image: url('img/clouds.jpg');
+    background-image: url('../clouds.jpg');
     background-position: top;
     background-size: 100%;
     background-repeat: repeat-x;
