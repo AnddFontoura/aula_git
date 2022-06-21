@@ -28,7 +28,7 @@
 
                 <div class="col-md-8 col-lg-8 col-sm-12">
                 <div class="card mt-3">
-                        <div class="card-body" id="GitPush">
+                        <div class="card-body" id="OqueéGIT">
                             <p>
                                 Git é uma ferramenta que usamos para salvar arquivos na nuvem!
                             </p>
