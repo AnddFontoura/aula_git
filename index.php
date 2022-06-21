@@ -19,7 +19,7 @@
                     <ul class="list-group">
                         <li class="list-group-item"> <a href="#GitPull"> Git Pull </a> </li>
                         <li class="list-group-item"> <a href="#GitPush"> Git Push </a> </li>
-                        <li class="list-group-item"> <a href="#GitComit"> Git Commit </a> </li>
+                        <li class="list-group-item"> <a href="#GitCommit"> Git Commit </a> </li>
                         <li class="list-group-item"> <a href="#GitBranch"> Git Branch </a> </li>
                         <li class="list-group-item"> <a href="#GitStatus"> Git Status </a> </li>
                     </ul>
